@@ -18,6 +18,7 @@ This is a detailed description of how people will be getting news easily after t
 No known bugs yet
 ## Technologies Used
 * Python
+* Flask
 ## Support and contact details
 If you want to contact me, email me on kuyamaxmillan@gmail.com
 ### License
